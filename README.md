@@ -1,53 +1,11 @@
 <html>
-  <head>
-    <style>
-      h2{
-        color: #FFF;
-        font-family: Arial, sans-serif;
-        font-size: 24px;
-        text-align: center;
-      }
-      p{
-        text-align: center;
-      }
-      .callout-box {
-        border: ipx solid #ccc;
-        background-color: rgba(172, 174, 180, 0.2);
-        border-radius: 10px;
-        padding: 10px;
-        margin-bottom: 5px
-      }
-      /* Style for the progress bars */
-      .progress-bar {
-        width: 100%;
-        height: 10px;
-        background-color: #f2f2f2;
-        border-radius: 10px;
-        overflow: hidden;
-      }
-      .progress-bar .progress {
-        height: 100%;
-        background-color: #4caf50;
-      }
-      /* Optional styling for the table */
-      table {
-        width: 100%;
-        border-collapse: collapse;
-      }
-      th, td {
-        padding: 8px;
-        text-align: left;
-        border-bottom: 1px solid #ddd;
-        }
-    </style>
-  </head>
   <body>
     <div id="header" align="center">
       <img src="images/howdy.PNG" alt="Local Image" width="300"/>
     </div>
-    <h2>Howdy 🤠</h2>
+    <h2 style="text-align: center"> Howdy 🤠</h2>
     <div class="callout-box">
-      <p>My name is Sophie, and I'm an experienced Analyst actively working to make the transition into Data Science. Here you'll find a collection of my "after-hours" projects including (but not limited to) my published Codecademy coursework and machine learning projects!</p>
+      <p style="text-align: center">My name is Sophie, and I'm an experienced Analyst actively working to make the transition into Data Science. Here you'll find a collection of my "after-hours" projects including (but not limited to) my published Codecademy coursework and machine learning projects!</p>
     </div>
     <br>
     <hr>
