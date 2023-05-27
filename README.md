@@ -1,16 +1,12 @@
-```
 <html>
   <style>
-    h1{
-      color: #FFF;
-      font-family: Arial, sans-serif;
-      font-size: 30px;
-      text-align: center;
-    }
     h2{
       color: #FFF;
       font-family: Arial, sans-serif;
       font-size: 24px;
+      text-align: center;
+    }
+    p{
       text-align: center;
     }
     .callout-box {
@@ -49,7 +45,7 @@
     </div>
     <h2>Howdy 🤠</h2>
     <div class="callout-box">
-      <p>Thanks for stopping by, my name is Sophie! I'm an experience Analyst actively working to make the transition into Data Science. Thanks for stopping by!</p>
+      <p>My name is Sophie, and I'm an experienced Analyst actively working to make the transition into Data Science. Here you'll find a collection of my "after-hours" projects including (but not limited to) my published Codecademy coursework and machine learning projects!</p>
     </div>
     <br>
     <hr>
@@ -151,4 +147,3 @@
       </div>
   </body>
 </html>
-```
