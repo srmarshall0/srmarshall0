@@ -3,8 +3,8 @@
     <div id="header" align="center">
       <img src="images/howdy.PNG" alt="Local Image" width="300"/>
     </div>
-    <h2 style="text-align: center"> Howdy 🤠</h2>
-    <div class="callout-box">
+    <div id="h1" align="center">
+      <h2 style="text-align: center"> Howdy 🤠</h2>
       <p style="text-align: center">My name is Sophie, and I'm an experienced Analyst actively working to make the transition into Data Science. Here you'll find a collection of my "after-hours" projects including (but not limited to) my published Codecademy coursework and machine learning projects!</p>
     </div>
     <br>
