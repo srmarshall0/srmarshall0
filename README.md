@@ -13,26 +13,22 @@
     <div id="header" align="center">
       <img src="images/projects.PNG" alt="Local Image" width="150"/>
     </div>
-    <h2>Projects</h2>
-      <div class="callout-box">
+    <div id="h1" align="center">
+      <h2>Projects</h2>
         <div id="projects-table">
         <table>
           <tr>
             <th>Repo</th>
             <th>Project Name</th>
             <th>Keywords</th>
-            <th>Progress</th>
+            <th>Status</th>
           </tr>
           <tr>
             <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">
                   <img src="images/github.PNG" alt="Machine Learning Projects" width=20></a></td>
             <td>California Housing Prices</td>
             <td>Linear Regression, KMeans, Decision Tree, Random Forest, Grid Search, Randomized Search</td>
-            <td> 
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%;"></div>
-              </div>
-              <td>
+            <td>Complete<td>
             </td>
           </tr>
           <tr>
@@ -40,15 +36,12 @@
                   <img src="images/github.PNG" alt="Machine Learning Projects" width=20></a></td>
             <td>MNIST Handwriting Classifier</td>
             <td>Classification, Stochastic Gradient Descent, Random Forest, K-Nearest Neighbors </td>
-            <td>
-              <div class="progress-bar">
-                <div class="progress" style="width: 15%;"></div>
-              </div>
-            </td>
+            <td>In Progress</td>
           </tr>
           </table>
         </div>
       </div>
+    </div>
     <br>
     <hr>
     <br>
