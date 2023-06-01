@@ -66,6 +66,8 @@
           </tr>
           <tr>
             <td>Advanced</td>
+            <td><img src="images/r.png" width=50>
+                <img src="images/excel.png" width=45></td>
           </tr>
         </table>
       </div>
