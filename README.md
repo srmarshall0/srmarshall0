@@ -59,6 +59,10 @@
           </tr>
           <tr>
             <td>Intermediate</td>
+            <td><img src="images/python.png" width=50>
+                <img src="images/sql.png" width=70>
+                <img src="images/sklearn.png" width=75>
+                <img src="images/r_shiny.png" width=37></td>
           </tr>
           <tr>
             <td>Advanced</td>
