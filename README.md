@@ -46,63 +46,31 @@
       <img src="images/languages_and_tools.PNG" alt="Local Image" width="200"/>
     </div>
     <h2>Language and Tools</h2>
-      <div id="languages-table">
-        <table>
-          <tr>
-            <th>Competency</th>
-            <th>Language / Tool</th>
-          </tr>
-          <tr>
-            <td>Beginner</td>
-            <td><img src="images/html.png" width=50>
-                <img src="images/css.png" width=52></td>
-          </tr>
-          <tr>
-            <td>Intermediate</td>
-            <td><img src="images/python.png" width=50>
-                <img src="images/sql.png" width=70>
-                <img src="images/sklearn.png" width=75>
-                <img src="images/r_shiny.png" width=37></td>
-          </tr>
-          <tr>
-            <td>Advanced</td>
-            <td><img src="images/r.png" width=50>
-                <img src="images/excel.png" width=45></td>
-          </tr>
-        </table>
-      </div>
-      </div>
-      </div>
-      <div class="callout-box">
-        <div id="projects-table">
-        <table>
-          <tr>
-            <th>Competency</th>
-            <th>Language / Tools</th>
-          </tr>
-          <tr>
-            <td>Beginner:</td>
-            <td><img src="images/html.png" width=50>
-                <img src="images/css.png" width=52></td>
-          </tr>
-          <tr>
-            <td>Intermediate:</td>
-            <td><img src="images/python.png" width=50>
-                <img src="images/sql.png" width=70>
-                <img src="images/sklearn.png" width=75>
-                <img src="images/r_shiny.png" width=37>
-            </td>
-          </tr>
-          <tr>
-            <td>Advanced:</td>
-            <td><img src="images/r.png" width=50>
-                <img src="images/excel.png" width=45>
-            </td>
-            <td></td>
-          </tr>
-        </table>
-        </div>
-      </div>
+    <div id="languages-table">
+      <table>
+        <tr>
+          <th>Competency</th>
+          <th>Language / Tool</th>
+        </tr>
+        <tr>
+          <td>Beginner</td>
+          <td><img src="images/html.png" width=50>
+              <img src="images/css.png" width=52></td>
+        </tr>
+        <tr>
+          <td>Intermediate</td>
+          <td><img src="images/python.png" width=50>
+              <img src="images/sql.png" width=70>
+              <img src="images/sklearn.png" width=75>
+              <img src="images/r_shiny.png" width=37></td>
+        </tr>
+        <tr>
+          <td>Advanced</td>
+          <td><img src="images/r.png" width=50>
+              <img src="images/excel.png" width=45></td>
+        </tr>
+      </table>
+    </div>
     <br>
     <hr>
     <br>
