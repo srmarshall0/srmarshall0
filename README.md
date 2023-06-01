@@ -54,6 +54,7 @@
           </tr>
           <tr>
             <td>Beginner</td>
+            <td><img src="images/html.png" width=50></td>
           </tr>
           <tr>
             <td>Intermediate</td>
