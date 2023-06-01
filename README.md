@@ -14,7 +14,7 @@
       <img src="images/projects.PNG" alt="Local Image" width="150"/>
     </div>
     <div id="h1" align="center">
-      <h2>Projects</h2>
+      <h2 style="text-align: center">Projects</h2>
         <div id="projects-table">
           <table>
             <tr>
