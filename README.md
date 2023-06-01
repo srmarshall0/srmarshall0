@@ -47,7 +47,7 @@
     </div>
     <h2>Language and Tools</h2>
     <div id="languages-table">
-      <table>
+      <table width="100%">
         <tr>
           <th>Competency</th>
           <th>Language / Tool</th>
