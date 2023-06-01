@@ -43,8 +43,7 @@
               <td>Complete</td>
             </tr>
             <tr>
-              <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">
-                    <img src="images/github.PNG" alt="Machine Learning Projects" width=20></a></td>
+              <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects/td>
               <td>MNIST Handwriting Classifier</td>
               <td>Classification, Stochastic Gradient Descent, Random Forest, K-Nearest Neighbors </td>
               <td>In Progress</td>
