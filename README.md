@@ -78,16 +78,16 @@
       <img src="images/still_here.PNG" alt="Local Image" width="100"/>
     </div>
     <h2>Still Reading? Let's Connect!<h2>
-      <div id="badges">
-      <a href="https://www.linkedin.com/in/sophie-marshall-07592a192/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="mailto:sophie.marshall98@gmail.com?subject=GitHub Connection:">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-      </a>
-      <a href="https://leetcode.com/srmarshall2/">
-        <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-      </a>
+      <div id="badges" align="center">
+        <a href="https://www.linkedin.com/in/sophie-marshall-07592a192/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="mailto:sophie.marshall98@gmail.com?subject=GitHub Connection:">
+          <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+        </a>
+        <a href="https://leetcode.com/srmarshall2/">
+          <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+        </a>
       </div>
   </body>
 </html>
