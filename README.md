@@ -46,31 +46,27 @@
       <img src="images/languages_and_tools.PNG" alt="Local Image" width="200"/>
     </div>
     <h2>Language and Tools</h2>
-    <div id="h1" align="center">
-        <h2>Projects</h2>
-          <div id="projects-table">
-            <table>
-              <tr>
-                <th>Repo</th>
-                <th>Project Name</th>
-                <th>Keywords</th>
-                <th>Status</th>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
-                <td>California Housing Prices</td>
-                <td>Linear Regression, KMeans, Decision Tree, Random Forest, Grid Search, Randomized Search</td>
-                <td>Complete</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
-                <td>MNIST Handwriting Classifier</td>
-                <td>Classification, Stochastic Gradient Descent, Random Forest, K-Nearest Neighbors </td>
-                <td>In Progress</td>
-              </tr>
-            </table>
-          </div>
-        </div>
+      <div id="languages-table">
+        <table>
+          <tr>
+            <th>Competency</th>
+            <th>Language / Tool</th>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
+            <td>California Housing Prices</td>
+            <td>Linear Regression, KMeans, Decision Tree, Random Forest, Grid Search, Randomized Search</td>
+            <td>Complete</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
+            <td>MNIST Handwriting Classifier</td>
+            <td>Classification, Stochastic Gradient Descent, Random Forest, K-Nearest Neighbors </td>
+            <td>In Progress</td>
+          </tr>
+        </table>
+      </div>
+      </div>
       </div>
       <div class="callout-box">
         <div id="projects-table">
