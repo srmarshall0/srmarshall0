@@ -53,7 +53,7 @@
             <th>Language / Tool</th>
           </tr>
           <tr>
-            <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
+            <td>Beginner</td>
             <td>California Housing Prices</td>
             <td>Linear Regression, KMeans, Decision Tree, Random Forest, Grid Search, Randomized Search</td>
             <td>Complete</td>
