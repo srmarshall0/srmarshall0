@@ -24,26 +24,13 @@
               <th>Status</th>
             </tr>
             <tr>
-              <td>
-                <div id="gitbadge">
-                  <a href="https://github.com/srmarshall0/machine_learning_projects.git">
-                    <img src="images/github.PNG" alt="Machine Learning Projects" width=50/>
-                  </a>
-                </div>
-              </td>
-              <td>California Housing Prices</td>
-              <td>Linear Regression, KMeans, Decision Tree, Random Forest, Grid Search, Randomized Search</td>
-              <td>Complete<td>
-              </td>
-            </tr>
-            <tr>
               <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
               <td>California Housing Prices</td>
               <td>Linear Regression, KMeans, Decision Tree, Random Forest, Grid Search, Randomized Search</td>
               <td>Complete</td>
             </tr>
             <tr>
-              <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects/td>
+              <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
               <td>MNIST Handwriting Classifier</td>
               <td>Classification, Stochastic Gradient Descent, Random Forest, K-Nearest Neighbors </td>
               <td>In Progress</td>
