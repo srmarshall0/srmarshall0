@@ -45,6 +45,7 @@
     <div id="header" align="center">
       <img src="images/languages_and_tools.PNG" alt="Local Image" width="200"/>
     </div>
+  <div id="h1" align="center">
     <h2 style="text-align: center">Language and Tools</h2>
     <div id="languages-table">
       <table width="100%">
