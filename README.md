@@ -45,7 +45,7 @@
     <div id="header" align="center">
       <img src="images/languages_and_tools.PNG" alt="Local Image" width="200"/>
     </div>
-    <h2>Language and Tools</h2>
+    <h2 style="text-align: center">Language and Tools</h2>
     <div id="languages-table">
       <table width="100%">
         <tr>
@@ -77,7 +77,7 @@
     <div id="header" align="center">
       <img src="images/still_here.PNG" alt="Local Image" width="100"/>
     </div>
-    <h2>Still Reading? Let's Connect!<h2>
+    <h2 style="text-align: center">Still Reading? Let's Connect!<h2>
       <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/sophie-marshall-07592a192/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
