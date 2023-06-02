@@ -47,8 +47,8 @@
     </div>
   <div id="h1" align="center">
     <h2 style="text-align: center">Language and Tools</h2>
-    <div id="languages-table" width="100%">
-      <table>
+    <div id="languages-table">
+      <table width="100%" style="margin: 0px;">
         <tr>
           <th>Competency</th>
           <th>Language / Tool</th>
