@@ -5,7 +5,7 @@
         </div>
         <div id="h1" align="center">
         <h2 style="text-align: center"> Howdy 🤠</h2>
-        <p style="text-align: center">My name is Sophie, and I'm an experienced Analyst actively working to make the transition into Data Science / Software Engineering. Here you'll find a collection of my "after-hours" projects including (but not limited to) my published Codecademy coursework and machine learning projects!</p>
+        <p style="text-align: center">My name is Sophie, and I'm an experienced Analyst actively working to expand my technical skillset. Here you'll find a collection of my "after-hours" projects including (but not limited to) my published Codecademy coursework and machine learning projects!</p>
         </div>
         <br>
         <hr>
