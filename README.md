@@ -36,10 +36,10 @@
                 <td>On Pause</td>
                 </tr>
                 <tr>
-                <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
-                <td>California Housing Prices</td>
-                <td>Linear Regression, KMeans, Decision Tree, Random Forest, Grid Search, Randomized Search</td>
-                <td>Complete</td>
+                <td><a href="https://github.com/srmarshall0/sophies_spotify.git">Sophie's Spotify</td>
+                <td>Spotify Listening History Database</td>
+                <td>API, ETL</td>
+                <td>Improving</td>
                 </tr>
             </table>
             </div>
