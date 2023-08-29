@@ -38,7 +38,7 @@
                 <tr>
                 <td><a href="https://github.com/srmarshall0/sophies_spotify.git">Sophie's Spotify</td>
                 <td>Spotify Listening History Database</td>
-                <td>API, ETL</td>
+                <td>Batch Processing, API, ETL</td>
                 <td>Improving</td>
                 </tr>
             </table>
