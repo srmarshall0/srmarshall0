@@ -40,6 +40,8 @@
                 <td>Spotify Listening History Database</td>
                 <td>Batch Processing, API, ETL</td>
                 <td>Improving</td>
+                </tr>
+                <tr>
                 <td><a href="https://github.com/srmarshall0/synthetic_finetuning.git">Synthetic Fine Tuning</td>
                 <td>Fine tune BLIP with Synthetic Data</td>
                 <td>LLM, Diffusion Models, Fine Tuning</td>
