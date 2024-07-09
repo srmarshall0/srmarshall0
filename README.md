@@ -33,19 +33,19 @@
                 <td><a href="https://github.com/srmarshall0/machine_learning_projects.git">Machine Learning Projects</td>
                 <td>MNIST Handwriting Classifier</td>
                 <td>Classification, Stochastic Gradient Descent, Random Forest, K-Nearest Neighbors </td>
-                <td>On Pause</td>
+                <td>Complete</td>
                 </tr>
                 <tr>
                 <td><a href="https://github.com/srmarshall0/sophies_spotify.git">Sophie's Spotify</td>
                 <td>Spotify Listening History Database</td>
                 <td>Batch Processing, API, ETL</td>
-                <td>Improving</td>
+                <td>Complete</td>
                 </tr>
                 <tr>
                 <td><a href="https://github.com/srmarshall0/synthetic_finetuning.git">Synthetic Fine Tuning</td>
                 <td>Fine tune BLIP with Synthetic Data</td>
                 <td>LLM, Diffusion Models, Fine Tuning</td>
-                <td>In Progress</td>
+                <td>On Hold (GPU poor)</td>
                 </tr>
             </table>
             </div>
